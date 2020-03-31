@@ -1,4 +1,4 @@
-# My first web scraper
+# Reddit Headline Scraper
 
 _31 March 2020_
 
