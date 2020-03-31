@@ -4,7 +4,7 @@ _31 March 2020_
 
 Following on from the Premier League scraper, we built a dynamic scraper that grabs Reddit news headlines.
 
-This is a dynamic web scraper; for a dynamic web scraper, see my My First Web Scraper repository.
+This is a dynamic web scraper; for a static web scraper, see my My First Web Scraper repository.
 
 ### Dependencies:
 
